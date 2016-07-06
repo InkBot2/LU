@@ -1,2 +1,2 @@
 # LU
-Supporting document templates for country: LU
+Supporting document templates for InkBot. Country: LU
